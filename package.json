@@ -6,9 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wavesoft/dot-dom-render.git"
+  },
+  "keywords": [
+    "dot-dom",
+    "dotdom",
+    "ssr",
+    "render"
+  ],
   "author": "Ioannis Charalampidis",
   "license": "MIT",
   "dependencies": {
     "xmlbuilder": "^8.2.2"
+  },
+  "devDependencies": {
+    "dot-dom": "^0.2.2",
+    "jest": "^19.0.2"
   }
 }
