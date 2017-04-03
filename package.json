@@ -1,0 +1,14 @@
+{
+  "name": "dot-dom-render",
+  "version": "1.0.0",
+  "description": "Server-Side-Rendering for .dom templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ioannis Charalampidis",
+  "license": "MIT",
+  "dependencies": {
+    "xmlbuilder": "^8.2.2"
+  }
+}
